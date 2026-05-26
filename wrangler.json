@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "easytier-worker",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "31fb0e29-b9c0-4ec5-8703-cb19b441f1d8",
+			"database_name": "easytier-worker-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
